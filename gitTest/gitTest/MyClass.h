@@ -7,4 +7,7 @@ public:
 	~CMyClass(void);
 	// speak
 	int Say(void);
+
+	// eat
+	void eat(void);
 };

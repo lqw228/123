@@ -10,6 +10,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	printf("hello world\n");
 	printf("good\n");
 	obj.Say();
+	obj.eat();
 	getchar();
 	return 0;
 }
