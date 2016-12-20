@@ -19,5 +19,5 @@ int CMyClass::Say(void)
 // eat
 void CMyClass::eat(void)
 {
-	printf("eat\n");
+	printf("eat 123\n");
 }
