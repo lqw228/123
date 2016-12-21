@@ -175,6 +175,10 @@
 				>
 			</File>
 			<File
+				RelativePath=".\HappyDay.cpp"
+				>
+			</File>
+			<File
 				RelativePath=".\Life.cpp"
 				>
 			</File>
@@ -208,6 +212,10 @@
 			Filter="h;hpp;hxx;hm;inl;inc;xsd"
 			UniqueIdentifier="{93995380-89BD-4b04-88EB-625FBE52EBFB}"
 			>
+			<File
+				RelativePath=".\HappyDay.h"
+				>
+			</File>
 			<File
 				RelativePath=".\Life.h"
 				>
